@@ -3,7 +3,7 @@ Last updated November 03, 2026
 
 
 
-This Privacy Notice for __________ ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+This Privacy Notice for PlayOnward ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
 
     Download and use our mobile application (Lootwords), or any other application of ours that links to this Privacy Notice
 
@@ -375,10 +375,7 @@ In Short: Yes, we will update this notice as necessary to stay compliant with re
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at cknapp.code@gmail.com or contact us by post at:
-
-__________
-__________
+If you have questions or comments about this notice, you may email us at cknapp.code@gmail.com
 
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
